@@ -1,7 +1,6 @@
 # 🍞 빵빵 저장소 (BbangBbang-archive) - 개발중
 
-> 지역 빵집 방문 기록을 남기고 공유하는 웹 서비스 (Java Spring Boot Backend)␣␣
-> 주말에 짬짜미로 진행 예정
+> 지역 빵집 방문 기록을 남기고 공유하는 웹 서비스 (Java Spring Boot Backend)
 
 ---
 
@@ -47,5 +46,9 @@ bbangbbang-archive-be
 ┃ ┃ ┗ 📂 resources
 ┃ ┃ ┃ ┣ application.yml
 ┃ ┃ ┃ ┗ schema.sql / data.sql
+
+---
+
+**주말마다 진행**
 ┃ ┗ 📂 test
 ┗ README.md
