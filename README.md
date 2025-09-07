@@ -32,8 +32,8 @@
 - GitHub Actions (CI/CD, 선택)  
 
 ---
-```
 ## 🗂 프로젝트 구조 (예시)
+```
 bbangbbang-archive-be
 ┣ 📂 src
 ┃ ┣ 📂 main
