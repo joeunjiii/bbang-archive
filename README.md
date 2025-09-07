@@ -32,7 +32,7 @@
 - GitHub Actions (CI/CD, 선택)  
 
 ---
-
+```
 ## 🗂 프로젝트 구조 (예시)
 bbangbbang-archive-be
 ┣ 📂 src
@@ -46,9 +46,8 @@ bbangbbang-archive-be
 ┃ ┃ ┗ 📂 resources
 ┃ ┃ ┃ ┣ application.yml
 ┃ ┃ ┃ ┗ schema.sql / data.sql
-
----
-
-**주말마다 진행**
 ┃ ┗ 📂 test
 ┗ README.md
+```
+---
+**주말마다 진행**
